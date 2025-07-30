@@ -10559,7 +10559,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" "https://www.mouser.vn/ProductDetail/Diodes-Incorporated/DMG1012T-7?qs=vIZ3oKQCLxoEnfyeB0HcGQ%3D%3D&srsltid=AfmBOoqRPLKHhD9PXrGb4mmYI4uEF9orsBisH3EDsfEf-Boy45JVQsqm"
+		(property "Order" "https://lcsc.com/product-detail/image/DMG1012T-7_C20512.html"
 			(at 124.46 204.47 0)
 			(effects
 				(font
@@ -11005,10 +11005,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0d6d9146-0d2f-4ba3-8b08-80915fa90515")
 		(property "Reference" "C22"
-			(at 345.44 189.2299 0)
+			(at 334.01 184.912 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11017,7 +11016,7 @@
 			)
 		)
 		(property "Value" "10pF"
-			(at 345.44 191.7699 0)
+			(at 334.01 187.452 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11323,6 +11322,15 @@
 			)
 		)
 		(property "Order" "https://linhkienthuduc.com/san-pham/module-sim-quectel-4g-ec800m-ho-tro-volte-cai/?srsltid=AfmBOoqqm4X5U8XqruXns4vibEk_N1nG3E7IiVTBr967UCtKbWFkmqob"
+			(at 289.56 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" "https://www.alibaba.com/product-detail/Quectel-EC800M-CN-EC800-Series-4G_1601266127333.html"
 			(at 289.56 166.37 0)
 			(effects
 				(font
@@ -11810,6 +11818,15 @@
 			)
 		)
 		(property "MANUFACTURER" ""
+			(at 392.43 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/PJ-342_C668606.html"
 			(at 392.43 175.26 0)
 			(effects
 				(font
@@ -15302,7 +15319,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" "Avnet"
+		(property "Order" "https://lcsc.com/product-detail/image/NANO-SIM-XG6P-H1-35_C7529386.html"
 			(at 356.87 62.23 0)
 			(effects
 				(font
@@ -15808,7 +15825,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" "https://www.mouser.vn/ProductDetail/Diodes-Incorporated/DMG1012T-7?qs=vIZ3oKQCLxoEnfyeB0HcGQ%3D%3D&srsltid=AfmBOoqRPLKHhD9PXrGb4mmYI4uEF9orsBisH3EDsfEf-Boy45JVQsqm"
+		(property "Order" "https://lcsc.com/product-detail/image/DMG1012T-7_C20512.html"
 			(at 59.69 204.47 0)
 			(effects
 				(font
@@ -16688,7 +16705,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" "https://www.digikey.com/en/products/detail/yageo/CC0805JRNPO9BN330/302839"
+		(property "Order" "https://lcsc.com/product-detail/image/CC0603JRNPO9BN330_C107047.html"
 			(at 213.36 255.27 0)
 			(effects
 				(font

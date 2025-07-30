@@ -11212,7 +11212,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" "https://www.mouser.vn/ProductDetail/STMicroelectronics/STM32F407VET6?qs=Z8%252BeY1k3TIJFAMMqSR%252BGtw%3D%3D&srsltid=AfmBOopnDMgfPflhfQg0FdQOsn5CCJbP6Kq-wiVHECpvvzL41hgnXbeO"
+		(property "Order" "https://lcsc.com/product-detail/image/STM32F407VET6TR_C5269943.html"
 			(at 200.66 275.59 0)
 			(effects
 				(font
@@ -12552,7 +12552,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" "https://www.mouser.vn/ProductDetail/Espressif-Systems/ESP32-WROOM-32UE-N4?qs=Li%252BoUPsLEnsnnWrvUBU2ZA%3D%3D"
+		(property "Order" "https://lcsc.com/product-detail/image/ESP32-WROOM-32UE-N4_C701344.html"
 			(at 199.39 133.35 0)
 			(effects
 				(font
@@ -14370,7 +14370,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" "https://www.mouser.vn/ProductDetail/ECS/ECS-080-18-23G-JGN-TR?qs=HXFqYaX1Q2w96I4MjMnYbA%3D%3D"
+		(property "Order" "https://lcsc.com/product-detail/image/X50328MSB2GI_C115962.html"
 			(at 66.04 248.92 0)
 			(effects
 				(font
@@ -14753,6 +14753,15 @@
 			)
 		)
 		(property "Description" "0.1A Ic, 45V Vce, NPN Transistor, SOT-23"
+			(at 81.28 318.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://www.lcsc.com/product-detail/Bipolar-BJT_Nexperia-BC847B-215_C57668.html?s_z=n_BC847"
 			(at 81.28 318.77 0)
 			(effects
 				(font

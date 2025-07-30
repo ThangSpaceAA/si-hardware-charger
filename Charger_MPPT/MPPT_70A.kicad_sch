@@ -13907,6 +13907,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/WJ55C-B-10-0-2P_C46028.html"
+			(at 33.02 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0f0e51cb-802f-495e-8071-49b584437f65")
 		)

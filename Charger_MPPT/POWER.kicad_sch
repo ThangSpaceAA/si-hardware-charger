@@ -5876,7 +5876,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" "https://www.thegioiic.com/lm2596s-5-0-ic-dieu-chinh-giam-ap-5v-3a-to-263-5"
+		(property "Order" "https://lcsc.com/product-detail/image/LM2596S-5-0_C5276750.html"
 			(at 190.5 140.97 0)
 			(effects
 				(font
@@ -6169,6 +6169,15 @@
 			)
 		)
 		(property "MANUFACTURER" ""
+			(at 223.52 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/Schottky-Diodes_Guangdong-Hottech-1N5819WS_C191023.html?s_z=n_1n5819"
 			(at 223.52 109.22 0)
 			(effects
 				(font
@@ -6600,7 +6609,7 @@
 				)
 			)
 		)
-		(property "Value" "100uF/25V"
+		(property "Value" "100uF/16V"
 			(at 234.95 109.22 0)
 			(effects
 				(font
@@ -6608,7 +6617,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7343-43_Kemet-X"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-6032-20_AVX-F_Pad2.25x2.35mm_HandSolder"
 			(at 233.68 105.41 0)
 			(effects
 				(font
@@ -6654,6 +6663,15 @@
 			)
 		)
 		(property "MANUFACTURER" ""
+			(at 233.68 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/Tantalum-Capacitors_Kyocera-AVX-TAJC107M016RNJ_C68621.html"
 			(at 233.68 105.41 0)
 			(effects
 				(font
@@ -7205,7 +7223,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" "https://www.mouser.vn/ProductDetail/Pulse-Electronics/PA4321.333NLT?qs=JxQonD1Dq%252BKcOFQkMu6Ckg%3D%3D"
+		(property "Order" "https://lcsc.com/product-detail/image/CYA0650-33UH_C5189937.html"
 			(at 223.52 101.6 0)
 			(effects
 				(font
@@ -8359,7 +8377,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330uF/35V"
+		(property "Value" "100uF/16V"
 			(at 251.46 147.7009 0)
 			(effects
 				(font
@@ -8368,7 +8386,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-6032-15_Kemet-U"
 			(at 248.6152 151.13 0)
 			(effects
 				(font
@@ -8396,6 +8414,15 @@
 			)
 		)
 		(property "MANUFACTURER" ""
+			(at 247.65 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/Tantalum-Capacitors_Kyocera-AVX-TAJC107M016RNJ_C68621.html"
 			(at 247.65 147.32 0)
 			(effects
 				(font
@@ -9085,6 +9112,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/Tantalum-Capacitors_Kyocera-AVX-TAJC107M016RNJ_C68621.html"
+			(at 157.48 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1a51d6b4-2b54-4a1d-a585-239ea38bea34")
 		)
@@ -9294,7 +9330,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330uF/16V"
+		(property "Value" "100uF/16V"
 			(at 161.29 95.6309 0)
 			(effects
 				(font
@@ -9331,6 +9367,15 @@
 			)
 		)
 		(property "MANUFACTURER" ""
+			(at 157.48 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/Tantalum-Capacitors_Kyocera-AVX-TAJC107M016RNJ_C68621.html"
 			(at 157.48 95.25 0)
 			(effects
 				(font
@@ -10285,7 +10330,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330uF/16V"
+		(property "Value" "100uF/16V"
 			(at 147.32 142.6209 0)
 			(effects
 				(font
@@ -10322,6 +10367,15 @@
 			)
 		)
 		(property "MANUFACTURER" ""
+			(at 143.51 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/Tantalum-Capacitors_Kyocera-AVX-TAJC107M016RNJ_C68621.html"
 			(at 143.51 142.24 0)
 			(effects
 				(font
@@ -11190,7 +11244,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" "https://www.mouser.vn/ProductDetail/Pulse-Electronics/PA4321.333NLT?qs=JxQonD1Dq%252BKcOFQkMu6Ckg%3D%3D"
+		(property "Order" "https://lcsc.com/product-detail/image/CYA0650-33UH_C5189937.html"
 			(at 220.98 143.51 0)
 			(effects
 				(font
@@ -11270,6 +11324,15 @@
 			)
 		)
 		(property "MANUFACTURER" ""
+			(at 43.18 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/CY2103MD1IEF4CC2A8_C2761719.html"
 			(at 43.18 66.04 0)
 			(effects
 				(font
@@ -12197,7 +12260,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" "https://www.mouser.vn/ProductDetail/Texas-Instruments/MC34063AD?qs=paYhMW8qfiu9F0uJ%2FIS%252Baw%3D%3D&srsltid=AfmBOoq7SQ5QFw4yrQjWeq76Xpg9N_VuEEG-eT88aM5SsiQV-1PSF91b"
+		(property "Order" "https://lcsc.com/product-detail/image/MC34063ADR_C100023.html"
 			(at 201.93 96.52 0)
 			(effects
 				(font

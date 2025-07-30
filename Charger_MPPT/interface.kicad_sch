@@ -13447,7 +13447,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" "https://www.digikey.com/en/products/detail/maxlinear-inc/SP3485EN-L-TR/2471929"
+		(property "Order" "https://lcsc.com/product-detail/image/SP3485EN-L-TR_C8963.html"
 			(at 232.41 355.6 0)
 			(effects
 				(font
@@ -13858,7 +13858,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" "https://www.amazon.ca/FS8205A-TSSOP8-FS8205-CEG8205A-CEG8205/dp/B0BWF4NXFN"
+		(property "Order" "https://icdayroi.com/fs8205a"
 			(at 529.59 49.53 0)
 			(effects
 				(font
@@ -14031,7 +14031,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" "https://www.digikey.com/en/products/detail/on-shore-technology-inc/PJ012-8P8C1/6566534"
+		(property "Order" "https://lcsc.com/product-detail/image/R-RJ45S08P-A004_C2902702.html"
 			(at 377.19 173.99 0)
 			(effects
 				(font
@@ -15084,7 +15084,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" "https://www.mouser.vn/ProductDetail/Microchip-Technology/MCP1799T-3302H-DB?qs=BJlw7L4Cy7%2F9AvPRs1acXA%3D%3D&srsltid=AfmBOopmPbAsABp1kBvzR_zqpSCa48MAdIcQhqzp9yK27vllvHlsBwub"
+		(property "Order" "https://lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_TECH-PUBLIC-TPMCP1799T-3302H-DB_C42394081.html?s_z=n_MCP1799T-3302H%252FDB"
 			(at 196.85 163.83 0)
 			(effects
 				(font
@@ -15254,6 +15254,15 @@
 			)
 		)
 		(property "MANUFACTURER" ""
+			(at 304.8 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/DB128V-5-08-2P-GN-S_C2915639.html"
 			(at 304.8 54.61 0)
 			(effects
 				(font
@@ -17291,6 +17300,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/MBR0520_C5204745.html"
+			(at 153.67 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a220d7ad-e560-435b-8139-4f147c089d4c")
 		)
@@ -17362,6 +17380,15 @@
 			)
 		)
 		(property "MANUFACTURER" ""
+			(at 306.07 347.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/DB128V-5-08-2P-GN-S_C2915639.html"
 			(at 306.07 347.98 0)
 			(effects
 				(font
@@ -18200,6 +18227,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/MHK2310RRBTD_C2764897.html"
+			(at 140.97 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "e347da88-38e2-43aa-926d-44831736cd9f")
 		)
@@ -18458,7 +18494,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" "https://www.digikey.com/en/products/detail/maxlinear-inc/SP3485EN-L-TR/2471929"
+		(property "Order" "https://lcsc.com/product-detail/image/SP3485EN-L-TR_C8963.html"
 			(at 220.98 62.23 0)
 			(effects
 				(font
@@ -18647,7 +18683,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" "https://linhkienchatluong.vn/ic-nguon/dw01-sot23-6-ic-bao-ve-pin-battery-protection-ic_sp422_ct7133.aspx"
+		(property "Order" "https://lcsc.com/product-detail/image/DW01A_C2927799.html"
 			(at 547.37 38.1 0)
 			(effects
 				(font
@@ -18813,7 +18849,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" "https://www.mouser.vn/ProductDetail/CTS-Electronic-Components/445I33D25M00000?qs=FP1Nkeq3mZ9bOUvLGTxcHQ%3D%3D"
+		(property "Order" "https://lcsc.com/product-detail/image/X503225MSB2GI_C112569.html"
 			(at 66.04 257.81 0)
 			(effects
 				(font
@@ -19721,7 +19757,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" "https://www.lcsc.com/product-detail/D-Sub-VGA-Connectors_Amphenol-ICC-ID09S33E4GV00LF_C185657.html?s_z=n_db9"
+		(property "Order" "https://lcsc.com/product-detail/D-Sub-VGA-Connectors_XUNPU-D-SUB-DR-9PCM-CB_C19077337.html?s_z=n_db9"
 			(at 35.56 143.51 0)
 			(effects
 				(font
@@ -20101,7 +20137,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" "https://www.digikey.com/en/products/detail/microchip-technology/ENC28J60-SS/857584"
+		(property "Order" "https://lcsc.com/product-detail/image/ENC28J60-SS_C8961.html"
 			(at 111.76 247.65 0)
 			(effects
 				(font
@@ -20948,7 +20984,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" "https://giadungnhaviet.com/san-pham/pin-sac-cuc-ao-han-chan-ni-mh-3-6v-40mah-3-v40h/"
+		(property "Order" "https://nshopvn.com/product/pin-sac-ni-mh/?variant=144643"
 			(at 502.92 40.64 0)
 			(effects
 				(font
@@ -21323,6 +21359,15 @@
 			)
 		)
 		(property "MANUFACTURER" ""
+			(at 152.4 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/MHK2310RRBTD_C2764897.html"
 			(at 152.4 320.04 0)
 			(effects
 				(font
@@ -22269,6 +22314,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/CL21A106KOQNNNE_C1713.html"
+			(at 135.89 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1cd4cfa3-bf0a-4f65-b4d3-a8076c03a947")
 		)
@@ -22916,7 +22970,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" "https://www.mouser.vn/ProductDetail/Analog-Devices-Maxim-Integrated/DS3231M%2BTRL?qs=Bakm8ERcljq5PBzSwLfmgg%3D%3D&srsltid=AfmBOorCQu3YM_8BMzXmazTKuCOz4H43YGxirF3dy01P5bAkAlutOfU3"
+		(property "Order" "https://lcsc.com/product-detail/image/DS3231SN-T-R_C9866.html"
 			(at 450.85 60.96 0)
 			(effects
 				(font
@@ -24432,6 +24486,15 @@
 			)
 		)
 		(property "MANUFACTURER" ""
+			(at 237.49 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/RJ45-334-053-01_C47345453.html"
 			(at 237.49 247.65 0)
 			(effects
 				(font
