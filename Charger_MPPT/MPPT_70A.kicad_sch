@@ -15052,6 +15052,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" ""
+			(at 26.67 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "21517558-ccb6-4c8f-919c-6d47163420e4")
 		)
