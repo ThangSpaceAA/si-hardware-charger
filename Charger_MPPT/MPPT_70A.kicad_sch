@@ -15017,7 +15017,7 @@
 				)
 			)
 		)
-		(property "Value" "Fuse"
+		(property "Value" "32v/60A"
 			(at 26.67 29.21 90)
 			(effects
 				(font
@@ -15045,6 +15045,15 @@
 		)
 		(property "Description" ""
 			(at 26.67 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/0299060-ZXNV_C178945.html"
+			(at 26.67 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15462,6 +15471,15 @@
 			)
 		)
 		(property "Description" "14.1A Id, 500V Vds, CoolMOS N-Channel Power MOSFET, 380mOhm Ron, 24.8nC Qg (typ), TO-252-2"
+			(at 33.02 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://www.mouser.com/ProductDetail/Infineon-Technologies/IPD053N08N3GATMA1?qs=3Bi3m9r5MQbqPBHFEv2uTQ%3D%3D&srsltid=AfmBOoqBrUTgscBYnOP4M8PfFPxqnfI-XQ4hNAr7mChqfNOpxYw-ShdW"
 			(at 33.02 59.69 0)
 			(effects
 				(font
@@ -16170,6 +16188,15 @@
 		)
 		(property "Description" "20V 0.5A Schottky Power Rectifier Diode, SOD-123"
 			(at 44.45 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/MBR0520_C5204745.html"
+			(at 44.45 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
