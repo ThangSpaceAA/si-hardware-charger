@@ -699,6 +699,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/FRC1206P000-TS_C2907406.html"
+			(at 102.87 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b94e41c2-94cd-40a7-a1b6-cc124b77fb6f")
 		)
@@ -957,6 +966,15 @@
 		)
 		(property "Description" ""
 			(at 123.19 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/FRC1206P000-TS_C2907406.html"
+			(at 123.19 91.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1361,6 +1379,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/FRC1206P000-TS_C2907406.html"
+			(at 102.87 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d81b9f79-8acf-4f3d-b9ff-10a6ecb33d30")
 		)
@@ -1421,6 +1448,15 @@
 		)
 		(property "Description" ""
 			(at 123.19 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/FRC1206P000-TS_C2907406.html"
+			(at 123.19 100.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1495,6 +1531,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/FRC1206P000-TS_C2907406.html"
+			(at 123.19 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4720e0d9-3903-4f8b-995c-1822e24b2274")
 		)
@@ -1555,6 +1600,15 @@
 		)
 		(property "Description" ""
 			(at 102.87 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/FRC1206P000-TS_C2907406.html"
+			(at 102.87 100.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)

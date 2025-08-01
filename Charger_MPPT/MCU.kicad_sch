@@ -14939,6 +14939,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/TS-1101-C-W_C318938.html"
+			(at 134.62 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "af723c01-53c9-47bc-96eb-5d78ff0a2ecf")
 		)

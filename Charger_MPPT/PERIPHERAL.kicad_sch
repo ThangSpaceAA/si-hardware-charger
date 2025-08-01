@@ -12850,7 +12850,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0805KRX7R9BB103_C83170.html"
+		(property "Order" "https://lcsc.com/product-detail/image/GRM2195C1H103FA01D_C441760.html"
 			(at 62.23 266.7 0)
 			(effects
 				(font
@@ -14972,7 +14972,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "NC"
+		(property "Value" "10nF"
 			(at 163.068 263.144 0)
 			(effects
 				(font
@@ -15008,7 +15008,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" ""
+		(property "Order" "https://lcsc.com/product-detail/image/GRM2195C1H103FA01D_C441760.html"
 			(at 158.75 260.35 0)
 			(effects
 				(font
@@ -15213,7 +15213,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10nF"
 			(at 115.57 130.8099 0)
 			(effects
 				(font
@@ -15241,6 +15241,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 111.76 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/GRM1885C1H103FA01D_C5299898.html"
 			(at 111.76 129.54 0)
 			(effects
 				(font
@@ -18806,7 +18815,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10nF"
 			(at 92.71 130.8099 0)
 			(effects
 				(font
@@ -18834,6 +18843,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 88.9 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/GRM1885C1H103FA01D_C5299898.html"
 			(at 88.9 129.54 0)
 			(effects
 				(font
@@ -18972,7 +18990,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "NC"
+		(property "Value" "10nF"
 			(at 128.778 263.144 0)
 			(effects
 				(font
@@ -19008,7 +19026,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" ""
+		(property "Order" "https://lcsc.com/product-detail/image/GRM2195C1H103FA01D_C441760.html"
 			(at 124.46 260.35 0)
 			(effects
 				(font

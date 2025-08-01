@@ -9935,6 +9935,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/Switching-Diodes_VISHAY-1N4148W-E3-08_C241939.html?s_z=n_1N4148W"
+			(at 137.16 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e69e7e46-2fff-4ef9-bf75-74a8147bec16")
 		)
@@ -9997,6 +10006,15 @@
 			)
 		)
 		(property "Description" "600mA, 100V Step-Down Switching Regulator, WSON-8"
+			(at 97.79 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://www.mouser.vn/ProductDetail/Texas-Instruments/LM5017SD-NOPB?qs=iiglMaU8SAdQJx7ZXr%252BBlQ%3D%3D&srsltid=AfmBOooXXU3ASupGjZuKDGf3qDGLZvltX6rVMSK2fyLZUJVy21tiRzF-"
 			(at 97.79 113.03 0)
 			(effects
 				(font
@@ -10166,6 +10184,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 43.18 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-AC0805FR-7W10KL_C855098.html?s_z=n_10k"
 			(at 43.18 123.19 0)
 			(effects
 				(font
@@ -11566,6 +11593,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/BC847B-215_C57668.html"
+			(at 72.39 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "b1bee4c3-ee17-4ca7-b585-44f22b07da53")
 		)
@@ -11631,6 +11667,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, US symbol"
+			(at 151.13 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/TAJA475K025RNJ_C7189.html"
 			(at 151.13 124.46 0)
 			(effects
 				(font
@@ -12073,6 +12118,15 @@
 		)
 		(property "Description" ""
 			(at 67.31 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/FRC0805F4993TS_C2960934.html"
+			(at 67.31 110.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12894,6 +12948,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/1206W4F1002T5E_C17902.html"
+			(at 44.45 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c3c0fa1d-9119-44b8-bcdb-418b2a7d225e")
 		)
@@ -12964,6 +13027,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/RC0805FR-0710KL_C84376.html"
+			(at 85.09 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "14379e85-85d4-4d5f-a63c-563a08a2edb4")
 		)
@@ -13026,6 +13098,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 214.63 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0805KRX7R9BB104_C49678.html"
 			(at 214.63 185.42 0)
 			(effects
 				(font
@@ -14201,6 +14282,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-AC0805FR-7W10KL_C855098.html?s_z=n_10k"
+			(at 124.46 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "df4b2d53-fb8a-42a5-956e-30854e61b594")
 		)
@@ -15021,6 +15111,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0805KRX7R9BB104_C49678.html"
+			(at 267.97 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1a5862e4-41c6-4320-b382-f307fea679b6")
 		)
@@ -15082,6 +15181,15 @@
 		)
 		(property "Description" "Inductor"
 			(at 132.08 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/SLH0704S221MTT_C49241602.html"
+			(at 132.08 110.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15230,6 +15338,15 @@
 			)
 		)
 		(property "Description" "1W, 1000 VDC isolated DC/DC converter, 15V input, 9V output, SIP"
+			(at 241.3 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/B0505S-1WR3_C7465178.html"
 			(at 241.3 184.15 0)
 			(effects
 				(font
@@ -16130,6 +16247,15 @@
 		)
 		(property "Description" ""
 			(at 137.16 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/RT0805BRD0788K7L_C706252.html"
+			(at 137.16 115.57 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19411,6 +19537,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/RT0805BRD0791KL_C865700.html"
+			(at 43.18 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "65e92853-c7de-46db-b1ea-be3cd4d4cd4a")
 		)
@@ -19768,6 +19903,15 @@
 		)
 		(property "Description" ""
 			(at 62.23 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/0805W8F1000T5E_C17408.html"
+			(at 62.23 208.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)

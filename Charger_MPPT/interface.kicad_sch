@@ -19869,6 +19869,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/MBR0520LT1G_C23848.html"
+			(at 165.1 379.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "48291f69-209f-49bd-a475-0d87a345a758")
 		)
