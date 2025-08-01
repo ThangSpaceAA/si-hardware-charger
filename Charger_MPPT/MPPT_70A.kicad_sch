@@ -9607,6 +9607,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://www.mouser.com/ProductDetail/Infineon-Technologies/IPD053N08N3GATMA1?qs=3Bi3m9r5MQbqPBHFEv2uTQ%3D%3D"
+			(at 321.31 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8b82db62-a97b-4d0b-ad23-88cae6b75dc4")
 		)
@@ -9749,6 +9758,15 @@
 			)
 		)
 		(property "Description" "100V 2A Schottky Diode, SMA"
+			(at 262.89 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/SS210_C488408.html"
 			(at 262.89 31.75 0)
 			(effects
 				(font
@@ -10068,7 +10086,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" ""
+		(property "Order" "https://lcsc.com/product-detail/image/NM1206B474K201CEGN_C725802.html"
 			(at 288.29 35.56 0)
 			(effects
 				(font
@@ -10280,6 +10298,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/FRC0805F2R40TS_C2930331.html"
+			(at 307.34 60.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e54e43c8-80c5-49f4-8d34-59adf4e8081b")
 		)
@@ -10417,6 +10444,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-AC0805FR-7W10KL_C855098.html?s_z=n_10k"
+			(at 313.69 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "32b430e0-0787-4c83-aa3a-a26f9e30e92f")
 		)
@@ -10477,6 +10513,15 @@
 		)
 		(property "Description" ""
 			(at 314.96 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-AC0805FR-7W10KL_C855098.html?s_z=n_10k"
+			(at 314.96 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10674,6 +10719,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://www.digikey.com/en/products/detail/lem-usa-inc/HLSR-50-P/4331982"
+			(at 116.84 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "527c7830-0483-452c-8dba-747be6043592")
 		)
@@ -10763,6 +10817,15 @@
 			)
 		)
 		(property "Description" "14.1A Id, 500V Vds, CoolMOS N-Channel Power MOSFET, 380mOhm Ron, 24.8nC Qg (typ), TO-252-2"
+			(at 321.31 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://www.mouser.com/ProductDetail/Infineon-Technologies/IPD053N08N3GATMA1?qs=3Bi3m9r5MQbqPBHFEv2uTQ%3D%3D"
 			(at 321.31 60.96 0)
 			(effects
 				(font
@@ -11174,6 +11237,15 @@
 		)
 		(property "Description" ""
 			(at 223.52 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/0805W8F1000T5E_C17408.html"
+			(at 223.52 127 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13001,7 +13073,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330uF/250"
+		(property "Value" "330uF/160"
 			(at 372.872 69.596 90)
 			(effects
 				(font
@@ -13029,6 +13101,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 369.57 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/EKXJ161ELL331MLN3S_C705523.html"
 			(at 369.57 57.15 0)
 			(effects
 				(font
@@ -13070,7 +13151,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330uF/250"
+		(property "Value" "330uF/160"
 			(at 400.812 69.596 90)
 			(effects
 				(font
@@ -13098,6 +13179,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 397.51 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/EKXJ161ELL331MLN3S_C705523.html"
 			(at 397.51 57.15 0)
 			(effects
 				(font
@@ -13173,6 +13263,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/FRC0805F2R40TS_C2930331.html"
+			(at 251.46 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "990d21ea-08b0-4f15-a5ea-3642b25126ca")
 		)
@@ -13206,7 +13305,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330uF/250"
+		(property "Value" "330uF/160"
 			(at 362.712 69.596 90)
 			(effects
 				(font
@@ -13234,6 +13333,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 359.41 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/EKXJ161ELL331MLN3S_C705523.html"
 			(at 359.41 57.15 0)
 			(effects
 				(font
@@ -13465,6 +13573,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-AC0805FR-7W10KL_C855098.html?s_z=n_10k"
+			(at 313.69 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "492f1184-44a9-416d-925a-ca2ed8279fa2")
 		)
@@ -13611,6 +13728,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/Gate-Drivers_onsemi-NCP5183DR2G_C904511.html?s_z=n_NCP5183DR2G"
+			(at 241.3 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "446ad2f3-e593-45af-b435-7b745abd35c3")
 		)
@@ -13689,6 +13815,15 @@
 		)
 		(property "Description" ""
 			(at 325.12 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/FRP2512F0000TS_C5204052.html"
+			(at 325.12 152.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14553,6 +14688,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/0805W8F1000T5E_C17408.html"
+			(at 222.25 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5f43d374-ac19-43dc-8752-b044109f8dac")
 		)
@@ -14586,7 +14730,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4700uF/250V"
+		(property "Value" "330uF/160V"
 			(at 87.376 71.374 90)
 			(effects
 				(font
@@ -14614,6 +14758,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 82.55 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/EKXJ161ELL331MLN3S_C705523.html"
 			(at 82.55 64.77 0)
 			(effects
 				(font
@@ -15238,7 +15391,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330uF/250"
+		(property "Value" "330uF/160"
 			(at 391.922 69.596 90)
 			(effects
 				(font
@@ -15266,6 +15419,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 388.62 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/EKXJ161ELL331MLN3S_C705523.html"
 			(at 388.62 57.15 0)
 			(effects
 				(font
@@ -15592,7 +15754,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330uF/250"
+		(property "Value" "330uF/160"
 			(at 352.552 69.596 90)
 			(effects
 				(font
@@ -15620,6 +15782,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 349.25 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/EKXJ161ELL331MLN3S_C705523.html"
 			(at 349.25 57.15 0)
 			(effects
 				(font
@@ -16011,7 +16182,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4700uF/250V"
+		(property "Value" "330uF/160V"
 			(at 70.358 71.374 90)
 			(effects
 				(font
@@ -16039,6 +16210,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 76.2 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/EKXJ161ELL331MLN3S_C705523.html"
 			(at 76.2 64.77 0)
 			(effects
 				(font
@@ -16514,7 +16694,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order" ""
+		(property "Order" "https://lcsc.com/product-detail/image/NM1206B474K201CEGN_C725802.html"
 			(at 289.56 110.49 0)
 			(effects
 				(font
@@ -16624,7 +16804,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330uF/250"
+		(property "Value" "330uF/160"
 			(at 381.762 69.596 90)
 			(effects
 				(font
@@ -16652,6 +16832,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 378.46 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/EKXJ161ELL331MLN3S_C705523.html"
 			(at 378.46 57.15 0)
 			(effects
 				(font
@@ -16785,6 +16974,15 @@
 		)
 		(property "Description" ""
 			(at 308.61 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/FRC0805F2R40TS_C2930331.html"
+			(at 308.61 106.68 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17437,6 +17635,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-AC0805FR-7W10KL_C855098.html?s_z=n_10k"
+			(at 133.35 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "70fe56fb-4d35-4960-9c07-8ad282a00795")
 		)
@@ -17497,6 +17704,15 @@
 		)
 		(property "Description" ""
 			(at 252.73 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/FRC0805F2R40TS_C2930331.html"
+			(at 252.73 106.68 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17649,6 +17865,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-AC0805FR-7W10KL_C855098.html?s_z=n_10k"
+			(at 314.96 113.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0b6f7bc1-4923-4df9-8a40-de43a0e74cbb")
 		)
@@ -17781,6 +18006,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/0805W8F1000T5E_C17408.html"
+			(at 223.52 116.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1a0baf64-2409-453b-860a-d8e6f1ad224f")
 		)
@@ -17841,6 +18075,15 @@
 		)
 		(property "Description" ""
 			(at 308.61 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/FRC0805F2R40TS_C2930331.html"
+			(at 308.61 135.89 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18062,6 +18305,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/SS210_C488408.html"
+			(at 264.16 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4d68daae-6a80-4193-a98b-4dce8d1e6389")
 		)
@@ -18122,6 +18374,15 @@
 		)
 		(property "Description" ""
 			(at 222.25 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/0805W8F1000T5E_C17408.html"
+			(at 222.25 52.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18704,6 +18965,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/0805W8F5601T5E_C4382.html"
+			(at 177.8 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "05af7443-802b-4cd7-a4b0-8ac7922dc857")
 		)
@@ -18769,6 +19039,15 @@
 			)
 		)
 		(property "Description" "14.1A Id, 500V Vds, CoolMOS N-Channel Power MOSFET, 380mOhm Ron, 24.8nC Qg (typ), TO-252-2"
+			(at 322.58 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://www.mouser.com/ProductDetail/Infineon-Technologies/IPD053N08N3GATMA1?qs=3Bi3m9r5MQbqPBHFEv2uTQ%3D%3D"
 			(at 322.58 135.89 0)
 			(effects
 				(font
@@ -18845,6 +19124,15 @@
 			)
 		)
 		(property "Description" "14.1A Id, 500V Vds, CoolMOS N-Channel Power MOSFET, 380mOhm Ron, 24.8nC Qg (typ), TO-252-2"
+			(at 322.58 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://www.mouser.com/ProductDetail/Infineon-Technologies/IPD053N08N3GATMA1?qs=3Bi3m9r5MQbqPBHFEv2uTQ%3D%3D"
 			(at 322.58 106.68 0)
 			(effects
 				(font
@@ -19405,6 +19693,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/FRP2512F0000TS_C5204052.html"
+			(at 323.85 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "35aae9de-ec34-4eb8-b84e-348cb0884686")
 		)
@@ -19563,6 +19860,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/RC0805FR-07100KL_C96346.html"
+			(at 177.8 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6779efd6-9bb1-4fb1-b4c1-57fc43f0e9c5")
 		)
@@ -19623,6 +19929,15 @@
 		)
 		(property "Description" ""
 			(at 307.34 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/FRC0805F2R40TS_C2930331.html"
+			(at 307.34 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
