@@ -9689,6 +9689,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/LMV321IDBVR_C7972.html"
+			(at 474.98 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "d53da31f-31fa-4e5b-b52e-103738c95ecd")
 		)
@@ -10369,6 +10378,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 66.04 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-AC0805FR-7W10KL_C855098.html?s_z=n_10k"
 			(at 66.04 219.71 0)
 			(effects
 				(font
@@ -11321,6 +11339,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/RC0805FR-0730KL_C126352.html"
+			(at 483.87 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cc2e6e24-7984-42aa-a1e0-c1bbf3ffa3fa")
 		)
@@ -11383,6 +11410,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 128.27 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/0805W8F8202T5E_C17840.html"
 			(at 128.27 149.86 0)
 			(effects
 				(font
@@ -11968,6 +12004,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/RC0805FR-0730KL_C126352.html"
+			(at 397.51 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "37d417d1-bb5e-44e0-8197-5e5dbaa2a016")
 		)
@@ -12376,6 +12421,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/Barrier-Terminal-Blocks_TE-Connectivity-6PCV-02-006_C3656257.html?s_z=n_6PCV-02-006"
+			(at 165.1 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "38419d53-ae72-4041-ae39-bb5d37a51646")
 		)
@@ -12487,7 +12541,7 @@
 			)
 		)
 		(property "Value" "100R"
-			(at 381 165.1 90)
+			(at 380.746 167.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12514,6 +12568,15 @@
 		)
 		(property "Description" ""
 			(at 381 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/0805W8F1000T5E_C17408.html"
+			(at 381 167.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12561,7 +12624,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:TO-252-2"
@@ -12586,6 +12648,15 @@
 			)
 		)
 		(property "Description" "14.1A Id, 500V Vds, CoolMOS N-Channel Power MOSFET, 380mOhm Ron, 24.8nC Qg (typ), TO-252-2"
+			(at 99.06 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://www.mouser.com/ProductDetail/Infineon-Technologies/IPD053N08N3GATMA1?qs=3Bi3m9r5MQbqPBHFEv2uTQ%3D%3D&srsltid=AfmBOoqBrUTgscBYnOP4M8PfFPxqnfI-XQ4hNAr7mChqfNOpxYw-ShdW"
 			(at 99.06 201.93 0)
 			(effects
 				(font
@@ -14042,7 +14113,16 @@
 				(hide yes)
 			)
 		)
-		(property "Order" "https://lcsc.com/product-detail/image/WJ55C-B-10-0-2P_C46028.html"
+		(property "Order" "https://lcsc.com/product-detail/Barrier-Terminal-Blocks_TE-Connectivity-6PCV-02-006_C3656257.html?s_z=n_6PCV-02-006"
+			(at 33.02 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order1" "https://lcsc.com/product-detail/Barrier-Terminal-Blocks_TE-Connectivity-6PCV-02-006_C3656257.html?s_z=n_6PCV-02-006"
 			(at 33.02 22.86 0)
 			(effects
 				(font
@@ -14297,7 +14377,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100uF/25V"
+		(property "Value" "10uF/25V"
 			(at 394.97 194.6909 0)
 			(effects
 				(font
@@ -14325,6 +14405,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 391.16 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/T491A106K016AT_C110055.html"
 			(at 391.16 194.31 0)
 			(effects
 				(font
@@ -14423,7 +14512,7 @@
 		(dnp no)
 		(uuid "79785313-23b3-4832-80ff-168c703c15b8")
 		(property "Reference" "R66"
-			(at 384.81 212.09 90)
+			(at 388.366 212.09 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14431,7 +14520,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 393.7 212.09 90)
+			(at 391.16 212.09 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14458,6 +14547,15 @@
 		)
 		(property "Description" ""
 			(at 391.16 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-AC0805FR-7W10KL_C855098.html?s_z=n_10k"
+			(at 391.16 212.09 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15053,6 +15151,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 74.93 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/RC0805FR-0710KL_C84376.html"
 			(at 74.93 195.58 0)
 			(effects
 				(font
@@ -15721,6 +15828,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/0805W8F1000T5E_C17408.html"
+			(at 454.66 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "81503c0e-a298-474b-aaf6-575afd375d18")
 		)
@@ -15859,6 +15975,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 364.49 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/B2B-XH-A-LF-SN_C158012.html"
 			(at 364.49 193.04 0)
 			(effects
 				(font
@@ -16037,7 +16162,7 @@
 		(dnp no)
 		(uuid "a441d394-b323-40ab-8f94-8e85998e588f")
 		(property "Reference" "R67"
-			(at 402.59 212.09 90)
+			(at 402.59 208.534 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16045,7 +16170,7 @@
 			)
 		)
 		(property "Value" "2k2"
-			(at 402.59 203.2 90)
+			(at 402.336 205.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16072,6 +16197,15 @@
 		)
 		(property "Description" ""
 			(at 402.59 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/0805W8F2201T5E_C17520.html"
+			(at 402.59 205.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16141,6 +16275,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 128.27 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/RC0805FR-0710KL_C84376.html"
 			(at 128.27 170.18 0)
 			(effects
 				(font
@@ -16771,6 +16914,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/RC0805FR-071KL_C95781.html"
+			(at 375.92 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "57af5c57-1384-4211-8230-911eaeadcf45")
 		)
@@ -17063,6 +17215,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/IRF740_C358408.html"
+			(at 378.46 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "52b1f158-dc31-4a21-a5ec-e0f860fef519")
 		)
@@ -17127,6 +17288,15 @@
 		)
 		(property "Description" ""
 			(at 368.3 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/0805W8F1000T5E_C17408.html"
+			(at 368.3 101.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17260,6 +17430,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 242.57 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/Gate-Drivers_onsemi-NCP5183DR2G_C904511.html?s_z=n_NCP5183DR2G"
 			(at 242.57 140.97 0)
 			(effects
 				(font
@@ -17473,6 +17652,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://www.digikey.com/en/products/detail/lem-usa-inc/HLSR-50-P/4331982"
+			(at 64.77 163.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -18152,6 +18340,15 @@
 		)
 		(property "Description" ""
 			(at 462.28 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/RC0805FR-071KL_C95781.html"
+			(at 462.28 121.92 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19414,6 +19611,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" "https://lcsc.com/product-detail/image/B2B-XH-A-LF-SN_C158012.html"
+			(at 364.49 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9671ffd6-cf9e-4b9a-90cd-8f00a2b86b43")
 		)
@@ -19476,6 +19682,15 @@
 			)
 		)
 		(property "Description" "Low-Voltage Rail-to-Rail Output Operational Amplifiers, SOT-23-5/SC-70-5"
+			(at 388.62 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/LMV321IDBVR_C7972.html"
 			(at 388.62 107.95 0)
 			(effects
 				(font
@@ -19978,7 +20193,7 @@
 			)
 		)
 		(property "Value" "2k2"
-			(at 369.57 162.56 90)
+			(at 372.11 162.814 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20005,6 +20220,15 @@
 		)
 		(property "Description" ""
 			(at 372.11 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order" "https://lcsc.com/product-detail/image/0805W8F2201T5E_C17520.html"
+			(at 372.11 162.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)

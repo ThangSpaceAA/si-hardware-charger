@@ -303,6 +303,16 @@
 	)
 	(wire
 		(pts
+			(xy 176.53 59.69) (xy 176.53 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4482ea4c-700c-4d4f-b60b-95538f3832b1")
+	)
+	(wire
+		(pts
 			(xy 149.86 54.61) (xy 149.86 50.8)
 		)
 		(stroke
@@ -413,6 +423,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 54.61) (xy 180.34 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ff39680-51e1-400d-b9bd-397e63f396ce")
+	)
+	(wire
+		(pts
 			(xy 177.8 68.58) (xy 175.26 68.58)
 		)
 		(stroke
@@ -483,6 +503,16 @@
 	)
 	(wire
 		(pts
+			(xy 177.8 59.69) (xy 176.53 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d12ebb58-0067-4d82-93af-28d2ea3e6a73")
+	)
+	(wire
+		(pts
 			(xy 138.43 62.23) (xy 134.62 62.23)
 		)
 		(stroke
@@ -500,6 +530,16 @@
 			(type default)
 		)
 		(uuid "d5dce1fe-8703-4973-98cb-066ab96f6253")
+	)
+	(wire
+		(pts
+			(xy 176.53 54.61) (xy 180.34 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4c35906-dea1-450f-9053-0916b81e4e9e")
 	)
 	(wire
 		(pts
@@ -1952,7 +1992,7 @@
 			(uuid "8d637207-3dbc-45f3-9ac3-5371c17b79ec")
 		)
 		(pin "+12V" input
-			(at 121.92 45.72 180)
+			(at 180.34 50.8 270)
 			(effects
 				(font
 					(size 1.27 1.27)
